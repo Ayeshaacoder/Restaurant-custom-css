@@ -1,6 +1,6 @@
 ## Design Responsive Restaurant website using HTML CSS and Javascript
 Website Link
-https://ayeshaacoder.github.io/Carzone/
+https://ayeshaacoder.github.io/Restaurant-custom-css/
 
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/88854535/226204967-b101be69-2f56-4983-af02-036650b4aba4.png">
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/88854535/226205030-86db33df-c785-449f-a780-f8f772b95c80.png">
